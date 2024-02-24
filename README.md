@@ -21,6 +21,6 @@ This project is a simple YouTube clone web application, created using HTML and C
 - **Notification Icon:** Displays a notification count with a red background.
   
 ## Usage:
-- Open the index.html file in a web browser to view the YouTube clone.
+- Open the youtube.html file in a web browser to view the YouTube clone.
 - Explore different sections using the sidebar links.
 - Click on video cards to open the corresponding YouTube video in a new tab.
